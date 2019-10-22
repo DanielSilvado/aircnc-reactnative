@@ -4,6 +4,8 @@ Uma réplica do Aircnc para empresas.
 Aplicação React Native a mesma consome dados da API <a href="https://github.com/DanielSilvado/Aircnc-NojeJs" target="_blank">Aircnc-NodeJs</a> 
 , lista os Spots premitindo um busca por tecnologias expecificas, clicando o usuário pode fazer uma reserva. 
 
+![App Aircnc Demo](aircnc-mobile-gif.gif)  
+
 # Tecnologias Utilizadas :
 
 * ReactJs
