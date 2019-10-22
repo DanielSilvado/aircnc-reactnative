@@ -15,7 +15,7 @@ Aplicação React Native a mesma consome dados da API <a href="https://github.co
 * expo
 
 # Instalação
-Para funcionamento da aplicação é necessário utilizar a api <a href="https://github.com/Montezi/Backend_Tindev" target="_blank"> Backend Tindev </a>
+Para funcionamento da aplicação é necessário utilizar a api <a href="https://github.com/DanielSilvado/Aircnc-NojeJs" target="_blank">Aircnc-NodeJs</a>
 
 **- Se estiver utilizando Yarn**
 ```
